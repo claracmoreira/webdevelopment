@@ -1,2 +1,2 @@
 # webdevelopment
-Web development exercises.
+Web development exercises meanwhile using only HTML.
